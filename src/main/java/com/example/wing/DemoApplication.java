@@ -8,7 +8,7 @@ import org.springframework.boot.web.servlet.ServletComponentScan;
  * @author dell
  */
 @SpringBootApplication
-@ServletComponentScan(basePackages = "com.example.demo.gateway.http")
+@ServletComponentScan(basePackages = "com.example.wing")
 public class DemoApplication {
 
 	public static void main(String[] args) {
